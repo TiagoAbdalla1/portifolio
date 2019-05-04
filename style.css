@@ -1,0 +1,24 @@
+div .daysgone{
+    margin-left: 10px;
+  height: 470px;
+  width: 400px;
+}
+
+div .img-days{
+    height: 360px;
+    border-top-left-radius:0;
+    border-top-right-radius:0;
+}
+div .img-wordz{
+    height: 360px;
+    border-top-left-radius:0;
+    border-top-right-radius:0;
+}
+.daysgone .card-body {
+   padding:0.60px; 
+   margin-left: 5px;
+}
+.wordz .card-body {
+    padding:0.60px; 
+    margin-left: 5px;
+ }
